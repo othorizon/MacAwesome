@@ -30,3 +30,31 @@ for f in "$@"; do
 done
 ```
 
+### iterm vim复制到系统剪贴板
+
+[mac中从vim编辑中粘贴文本到系统的粘贴板_百度经验](https://jingyan.baidu.com/article/22fe7cedd9b92e3003617f64.html)
+[os x 下 vim 无法复制到系统剪切板的问题 - V2EX](https://www.v2ex.com/t/96300)
+
+1. **terminal 里面按住 option 选好文字用 cmd+c 复制 **
+2. `:w !pbcopy` #把**全文**发给剪切板 
+3. `:.w !pbcopy` #把**当前行**发给剪切板 
+4. 选中多行后 ｀:!tee >(pbcopy)｀ #把**选中行**发给剪切板
+
+```bash
+#编辑 ~/.vimrc 增加
+vmap <C-x> :!pbcopy<CR>
+vmap <C-c> :w !pbcopy<CR><CR>
+```
+
+### 修改rm命令为删除到回收站
+
+```bash
+alias rm=rmt
+rmt()
+{
+        date|xargs -I{} mv -i $@ /Users/Rizon/.Trash/$@-{}
+}
+```
+
+[Linux下命令行删除到回收站 - CSDN博客](http://blog.csdn.net/itodouble/article/details/53503570)
+`# alias del='mv -t ~/.local/share/Trash/files --backup=t'`
