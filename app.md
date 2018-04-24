@@ -1,8 +1,10 @@
 # app推荐
 
-- Tower ： mac平台最强大的Git 客户端
-- SourceTree ： github管理神器，免费 [官网](https://www.sourcetreeapp.com/)
-- gitbook : [四. GitBook 使用入门 - CSDN博客](http://blog.csdn.net/wirelessqa/article/details/72616471)
+- git
+  - Tower ： mac平台最强大的Git 客户端
+  - SourceTree ： github管理神器，免费 [官网](https://www.sourcetreeapp.com/)
+  - gitbook : [GitBook 使用入门 - CSDN博客](http://blog.csdn.net/wirelessqa/article/details/72616471)
+- Yummy FTP Pro: mac上相对来说功能和界面都可以接受的ftp工具
 
 ## 装机必备
 
