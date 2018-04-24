@@ -14,3 +14,4 @@
 
 - [万彩动画大师](http://www.animiz.cn/)  ：  一款好用的 Windows 动画视频制作神器[介绍](http://www.appinn.com/animiz-limit-code/)
 - [Perma](https://perma.cc/)  ： 为网页建立永久档案，不怕网页被删除、被修改、被下线[介绍](http://www.appinn.com/perma-cc/)
+- [GIPHY CAPTURE](https://giphy.com/apps/giphycapture) [Mac GIF 录制工具](http://www.ifanr.com/app/653286)
