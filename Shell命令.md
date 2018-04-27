@@ -48,10 +48,6 @@ vmap <C-c> :w !pbcopy<CR><CR>
 
 ### 修改rm命令为删除到回收站
 
-其他工具：
-
-[[小技巧] 将 rm 命令删除的文件放在回收站 - CSDN博客](https://blog.csdn.net/robertsong2004/article/details/38908493)
-
 简易方案：
 
 ```bash
@@ -64,3 +60,7 @@ rmt()
 
 [Linux下命令行删除到回收站 - CSDN博客](http://blog.csdn.net/itodouble/article/details/53503570)
 `# alias del='mv -t ~/.local/share/Trash/files --backup=t'`
+
+其他工具：
+
+[将 rm 命令删除的文件放在回收站](https://blog.csdn.net/robertsong2004/article/details/38908493)
