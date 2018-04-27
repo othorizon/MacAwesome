@@ -58,7 +58,7 @@ vmap <C-c> :w !pbcopy<CR><CR>
 alias rm=rmt
 rmt()
 {
-        date|xargs -I{} mv -i $@ /Users/Rizon/.Trash/$@-{}
+    mv -i $@ /Users/Rizon/.Trash/$@-$(date +"%Y_%m_%d_%H_%M_%S")
 }
 ```
 
