@@ -1,11 +1,23 @@
-# app推荐
+# MAC APP Awesome
+
+- [MAC APP Awesome](#mac-app-awesome)
+  - [程序员必备mac应用](#程序员必备mac应用)
+  - [装机必备](#装机必备)
+  - [不常用](#不常用)
 
 [BundleHunt.com | Buy What You Want Create Your Mac Bundle](https://bundlehunt.com/)
+
+## 程序员必备mac应用
 
 - git
   - Tower ： mac平台最强大的Git 客户端
   - SourceTree ： github管理神器，免费 [官网](https://www.sourcetreeapp.com/)
   - gitbook : [GitBook 使用入门 - CSDN博客](http://blog.csdn.net/wirelessqa/article/details/72616471)
+- 数据库工具
+  - DataGrip :jetbrains出品，适合数据库开发使用，基于项目化开发理念设计，秉持jetbrains的一贯风格。
+  - Navicat Premium :功能强大，mac版的有些卡顿不流程，UI也不是很舒服
+  - Sequel Pro :很流畅，功能相对简单，但是很流畅
+  - TablePlus :[TablePlus](https://tableplus.io/)还没用过，收费的，似乎很厉害
 - Yummy FTP Pro: mac上相对来说功能和界面都可以接受的ftp工具
 
 ## 装机必备
