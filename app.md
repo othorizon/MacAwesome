@@ -3,6 +3,7 @@
 - [MAC APP Awesome](#mac-app-awesome)
   - [程序员必备mac应用](#程序员必备mac应用)
   - [装机必备](#装机必备)
+  - [效率](#效率)
   - [不常用](#不常用)
 
 [BundleHunt.com | Buy What You Want Create Your Mac Bundle](https://bundlehunt.com/)
@@ -25,6 +26,12 @@
 - 小历 ：  [官网](http://ioszen.com/tinycal) 一款很精简的日历软件，由pin的开发者开发，可以替代系统的右上角时间
 - Free Download Manager  ：   [官网](https://www.freedownloadmanager.org/) 免费好用的下载工具
 - pdf expert (pdf阅读器)
+
+## 效率
+
+- Ghostnote [Ghostnote：散落在 Mac 各个角落的文件备忘神器「更新备忘内容专用浏览器」](https://www.waerfa.com/ghostnote)
+- Recents [Recents - A file launcher designed for Mac](http://recentsapp.com/)
+- Workspaces [Workspaces：一键启用所有项目资源](https://www.waerfa.com/workspaces-review)
 
 ## 不常用
 
