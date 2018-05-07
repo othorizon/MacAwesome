@@ -20,6 +20,7 @@
   - Sequel Pro :很流畅，功能相对简单，但是很流畅
   - TablePlus :[TablePlus](https://tableplus.io/)还没用过，收费的，似乎很厉害
 - Yummy FTP Pro: mac上相对来说功能和界面都可以接受的ftp工具
+- [Postman](https://www.getpostman.com/apps) 推荐 http请求工具,功能强大，可以做测试用例，支持脚本，项目开发中使用很有帮助。Postman Makes API Development Simple
 
 ## 装机必备
 
