@@ -13,7 +13,8 @@
 - git
   - Tower ： mac平台最强大的Git 客户端
   - SourceTree ： github管理神器，免费 [官网](https://www.sourcetreeapp.com/)
-  - gitbook : [GitBook 使用入门 - CSDN博客](http://blog.csdn.net/wirelessqa/article/details/72616471)
+  - gitkraken : 高颜值git ui客户端 [Git GUI for Windows, Mac & Linux | GitKraken](https://www.gitkraken.com/)
+- gitbook : [GitBook 使用入门 - CSDN博客](http://blog.csdn.net/wirelessqa/article/details/72616471)
 - 数据库工具
   - DataGrip :jetbrains出品，适合数据库开发使用，基于项目化开发理念设计，秉持jetbrains的一贯风格。
   - Navicat Premium :功能强大，mac版的有些卡顿不流程，UI也不是很舒服
