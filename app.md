@@ -10,6 +10,9 @@
 
 ## 程序员必备mac应用
 
+- 终端
+  - iTerm2 [iTerm2 - macOS Terminal Replacement](https://www.iterm2.com/)
+  - Royal [Royal Applications](https://www.royalapplications.com/ts/mac/features)
 - git
   - Tower ： mac平台最强大的Git 客户端
   - SourceTree ： github管理神器，免费 [官网](https://www.sourcetreeapp.com/)
