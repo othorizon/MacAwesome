@@ -13,6 +13,9 @@
 - 终端
   - iTerm2 [iTerm2 - macOS Terminal Replacement](https://www.iterm2.com/)
   - Royal [Royal Applications](https://www.royalapplications.com/ts/mac/features)
+  - 终端录屏
+    - [asciinema - Record and share your terminal sessions, the right way](https://asciinema.org/)
+    - [github - terminalizer - Record your terminal and generate animated gif images or share a web player](https://github.com/faressoft/terminalizer)
 - git
   - Tower ： mac平台最强大的Git 客户端
   - SourceTree ： github管理神器，免费 [官网](https://www.sourcetreeapp.com/)
