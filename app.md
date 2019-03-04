@@ -28,7 +28,7 @@
   - TablePlus :[TablePlus](https://tableplus.io/)还没用过，收费的，似乎很厉害
   - Studio3T:[Studio 3T](https://studio3t.com/) mongodb客户端工具，有免费版
 - Yummy FTP Pro: mac上相对来说功能和界面都可以接受的ftp工具
-- [Postman](https://www.getpostman.com/apps) 推荐 http请求工具,功能强大，可以做测试用例，支持脚本，项目开发中使用很有帮助。Postman Makes API Development Simple
+- [Postman](https://www.getpostman.com/apps) 推荐 http请求工具,功能强大，可以做测试用例，支持脚本，项目开发中使用很有帮助。Postman Makes API Development Simple
 
 ## 装机必备
 
@@ -45,5 +45,4 @@
 ## 不常用
 
 - [万彩动画大师](http://www.animiz.cn/)  ：  一款好用的 Windows 动画视频制作神器[介绍](http://www.appinn.com/animiz-limit-code/)
-- [Perma](https://perma.cc/)  ： 为网页建立永久档案，不怕网页被删除、被修改、被下线[介绍](http://www.appinn.com/perma-cc/)
 - [GIPHY CAPTURE](https://giphy.com/apps/giphycapture) gif录制工具，appstore可以下载 [Mac GIF 录制工具](http://www.ifanr.com/app/653286)
