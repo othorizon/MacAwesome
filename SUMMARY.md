@@ -1,4 +1,4 @@
-* [markdown使用](/markdown.md)
+* [markdown使用](/markdown.md)
 * [MAC APP Awesome](/app.md)
 * [chrome](/chrome.md)
 * [intellij idea](/intellij_idea.md)
